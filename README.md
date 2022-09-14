@@ -1,5 +1,3 @@
-# Bigger-Number-Game
-Choose the bigger number displayed on both the buttons
 
 
 ## *Nikhil Dahiya*
