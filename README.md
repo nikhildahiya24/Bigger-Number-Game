@@ -1,8 +1,8 @@
-
+# Bigger-Number-Game
 
 ## *Nikhil Dahiya*
 
-# Bigger-Number-Game
+
 Choose the bigger number displayed on both the buttons
 
 
